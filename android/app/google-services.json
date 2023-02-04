@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294872682926",
+    "project_id": "chatapp-fe921",
+    "storage_bucket": "chatapp-fe921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294872682926:android:6fceae1a58c5d9014db83f",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294872682926-h42fdt6fcf749jo76hv5jgcp9bsh33sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_BSU7PmsBgYFOMRJ_YEvXE3v6NiRNpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294872682926-h42fdt6fcf749jo76hv5jgcp9bsh33sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
